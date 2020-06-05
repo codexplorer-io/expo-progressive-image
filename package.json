@@ -1,0 +1,10 @@
+{
+  "name": "@marko/expo-progressive-image",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "styled-components": "*"
+  }
+}
