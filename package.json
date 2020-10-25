@@ -1,5 +1,5 @@
 {
-  "name": "@marko/expo-progressive-image",
+  "name": "@codexporer.io/expo-progressive-image",
   "version": "1.0.0",
   "main": "src/index.js",
   "peerDependencies": {
