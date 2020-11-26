@@ -40,7 +40,8 @@ export const ProgressiveImage = ({
     useEffect(() => {
         !isLoading && Animated.timing(opacityAnimation, {
             toValue: 0,
-            duration
+            duration,
+            useNativeDriver: true
         }).start();
     }, [
         duration,
